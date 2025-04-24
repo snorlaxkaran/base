@@ -4,13 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-<<<<<<< HEAD
     "dev": "tsc -b && node dist/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
-=======
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "tsc -b && node dist/index.js"
->>>>>>> 64ea176 (added prisma)
   },
   "keywords": [],
   "author": "",
